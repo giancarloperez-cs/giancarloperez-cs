@@ -12,5 +12,5 @@
 - Create a Portfolio website 
 
 ## Contact me
-[LinkedIn](www.linkedin.com/in/giancarlo-perez-156338361) | [GitHub](https://github.com/giancarloperez-cs)
+[LinkedIn](https://www.linkedin.com/in/giancarlo-perez-156338361/) | [GitHub](https://github.com/giancarloperez-cs)
 
