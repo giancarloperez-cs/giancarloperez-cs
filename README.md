@@ -1,4 +1,4 @@
-# Hi there, I'm Giancarlo
+# hi
 
 ## Currently learning
 - Java and JavaScript
@@ -6,10 +6,8 @@
 - React (soon) 
 
 ## Projects and Goals 
-- Work on my app for the Congressional App Challenge
-- Expand my knowledge in Java and Javascript 
-- Build a website for my Take Action project
-- Create a Portfolio website 
+- trying to make some more projects with java & javascript :)
+- making a Portfolio website 
 
 ## Contact me
 [LinkedIn](https://www.linkedin.com/in/giancarlo-perez-156338361/) | [GitHub](https://github.com/giancarloperez-cs)
