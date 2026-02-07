@@ -3,7 +3,7 @@
 ## Currently learning
 - Java and JavaScript
 - Git and GitHub 
-- React (soon) 
+- React
 
 ## Projects and Goals 
 - trying to make some more projects with java & javascript :)
